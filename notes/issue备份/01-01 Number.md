@@ -2,6 +2,11 @@
 
 # Number
 
+[Python3 的六个标准数据类型](https://www.runoob.com/python3/python3-data-type.html)中：
+
+- **不可变数据（3 个）：**Number（数字）、String（字符串）、Tuple（元组）
+- **可变数据（3 个）：**List（列表）、Dictionary（字典）、Set（集合）
+
 ## Number（数字）
 
 Python3 支持 **int、float、bool、complex（复数）**，注意在Python 3里，只有一种整数类型 int，表示为长整型，没有 python2 中的 Long。*在 Python2 中是没有布尔型的，它用数字 0 表示 False，用 1 表示 True。到 Python3 中，把 True 和 False 定义成关键字了，但它们的值还是 1 和 0，它们可以和数字相加。*

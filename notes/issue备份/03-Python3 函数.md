@@ -1,5 +1,16 @@
 # 03-Python函数
 
+## 定义函数
+
+在Python中可以使用`def`关键字来定义函数，和变量一样每个函数也有一个响亮的名字，而且命名规则跟变量的命名规则是一致的。函数执行完成后我们可以通过`return`关键字来返回一个值。
+
+```
+def 函数名：
+	业务代码
+```
+
+
+
 ## 函数的参数
 
 在Python中，函数的参数可以有默认值，也支持使用可变参数，所以Python并不需要像其他语言一样支持[函数的重载](https://zh.wikipedia.org/wiki/%E5%87%BD%E6%95%B0%E9%87%8D%E8%BD%BD)，因为我们在定义一个函数的时候可以让它有多种不同的使用方式。
@@ -19,12 +30,9 @@ Python中每个文件就代表了一个模块（module），我们在不同的�
 # module1.py
 def foo():
     print('hello, world!')
-    
 # module2.py
 def foo():
     print('goodbye, world!')
-    
-    
 # test.py
 import module1 as m1
 import module2 as m2

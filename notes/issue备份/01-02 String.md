@@ -1,5 +1,12 @@
 # String（字符串）
 
+[Python3 的六个标准数据类型](https://www.runoob.com/python3/python3-data-type.html)中：
+
+- **不可变数据（3 个）：**Number（数字）、String（字符串）、Tuple（元组）
+- **可变数据（3 个）：**List（列表）、Dictionary（字典）、Set（集合）
+
+而字符串类型是一种结构化的、非标量类型，所以才会有一系列的属性和方法。
+
 Python中的字符串用单引号 **'** 或双引号 **"** 括起来
 
 ```python

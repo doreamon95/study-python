@@ -64,4 +64,3 @@ Python中内置的 type() 函数可以用来查询变量所指的对象类型，
 - type()不会认为子类是一种父类类型
 - isinstance()会认为子类是一种父类类型
 
-string、list 和 tuple 都属于 sequence（序列）

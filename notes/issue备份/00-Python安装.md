@@ -2,7 +2,7 @@
 
 ## Python安装   ubuntu自带python版本
 
-首先是安装Python（[参考](https://www.runoob.com/python3/python3-install.html)），可以在https://www.python.org/downloads/source/选择一款安装，如果是ubuntu则安装如下，安装采用的工具是[Cloud Studio](https://cloudstudio.net/)，这是一款和VScode长得一摸一样的在线工具。
+首先是安装Python（[参考](https://www.runoob.com/python3/python3-install.html)），可以在https://www.python.org/downloads/source/选择一款安装，如果是Ubuntu，则自带Python环境，若Ubuntu下自行安装版本，比如安装3.7.1，则执行下列版本：
 
 ```
 wget https://www.python.org/ftp/python/3.7.1/Python-3.7.1.tgz

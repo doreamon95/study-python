@@ -14,8 +14,6 @@
 - Python有哪些Web框架？
 - 如何学习Django？
 
-具体请参见目录：
-
 ## 1. 为什么学习Python？
 
 待更新
@@ -43,6 +41,8 @@
 
 
 
+
+
 ## 4. 如何学习Django？
 
 学习Django前，第一时间也是去收集了相关资料，收集资料如下
@@ -51,5 +51,5 @@
 | ------------------------------------------------------------ | ---------------------------------------- |
 | [W3Cschool Django中文教程](https://www.w3cschool.cn/django/dl5b8ozt.html) | 讲解的非常细致，是Django综合类的学习网站 |
 | [自强学堂Django2教程](https://code.ziqiangxuetang.com/django/django-tutorial.html) | 快速过一遍基础，浏览和查阅               |
-|                                                              |                                          |
+| [Django官方文档](https://docs.djangoproject.com/zh-hans/3.0/intro/tutorial01/) | 推荐阅读                                 |
 
